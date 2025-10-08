@@ -1,1 +1,1 @@
-# Proyecto de Simulación SFA (Finanzas Abiertas Chile)
+# Proyecto de Simulación SFA (Open Banking Chile)
